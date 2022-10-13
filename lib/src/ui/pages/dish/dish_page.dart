@@ -56,7 +56,7 @@ class DishPage extends StatelessWidget {
       child: Scaffold(
         backgroundColor: Colors.white,
         floatingActionButton: AddToCartButton(),
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
+        floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
         body: Container(
           width: double.infinity,
           height: double.infinity,
