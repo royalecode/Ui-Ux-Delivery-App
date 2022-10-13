@@ -1,0 +1,27 @@
+[
+  {
+    "id": 123,
+    "name": "Tacos Full 5 excepteur",
+    "price": 9.99,
+    "rate": 4.5,
+    "description": "This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum.",
+    "preview": "https://img.freepik.com/foto-gratis/tacos-mexicanos-pollo-pimientos-frijoles-negros-vegetales-frescos_2829-20049.jpg?w=1480&t=st=1665415147~exp=1665415747~hmac=4ea0fcdddd4899caa5ac675f3937cacfc615f4997c5f64c2646b4ce3a6f5d660"
+  },
+  {
+    "id": 124,
+    "name": "Duis aute irure occaecat",
+    "price": 25,
+    "rate": 4.8,
+    "description": "This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum.",
+    "preview": "https://img.freepik.com/foto-gratis/primer-plano-pastelitos-gourmet-club-campo-nueva-jersey_181624-60723.jpg?w=1480&t=st=1665415305~exp=1665415905~hmac=383d8eb234a7d92f2e60fd9b267c2e28097bbda068545da9581885abf9eac109"
+  },
+  {
+    "id": 125,
+    "name": "Excepteur sint occaecat",
+    "price": 5,
+    "rate": 5,
+    "description": "This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum.",
+    "preview": "https://img.freepik.com/foto-gratis/primer-plano-sabrosos-ravioles-italianos_1220-5142.jpg?w=1480&t=st=1665415330~exp=1665415930~hmac=c61e552f3e71106e2e37ec5ead45d2095093e9089a32fc305b6753884913ced7"
+  }
+  
+]
